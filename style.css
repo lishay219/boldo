@@ -6,7 +6,7 @@
       font-family: "Manrope", sans-serif;
 }
 .container{
-    max-width: 1200px;
+    max-width: 1088px;
     width: 100%;
     margin: 0 auto;
     padding: 0 20px;
@@ -14,7 +14,7 @@
 
 header{
     background-color: #65E4A3;
-    padding: 56px 100px;
+    padding: 56px 47px;
 }
 .nav-bar{
     display: flex;
@@ -76,9 +76,9 @@ li a{
     color: #0A2640;
     font-weight: 400;
 }
-section{
+.main-sec{
     margin-top: 94px;
-    margin-left: 199px;
+    margin-left: 94px;
     margin-right: 199px;
     margin-bottom: 120px;
 }
@@ -131,4 +131,195 @@ gap: 141.5px;
 .angel{
     font-size: 20px;
     font-weight: 400;
+}
+.team{
+    margin: 124px 160px;
+}
+.our{
+    padding-left:   50px;
+    padding-right: 50px;
+}
+.o{
+    color: #777777;
+    font-size: 20px;
+    font-weight: 400;
+    padding-bottom: 12px;
+}
+.people{
+    padding-bottom: 22.5px;
+    color: #000000;
+    font-size:48 ;
+    font-weight: 400;
+}
+.first{
+    color: #777777;
+    font-size: 20px;
+    font-weight: 400;
+    padding-bottom: 36px;
+}
+.micheal{
+    display: flex;
+    gap: 75px;
+}
+.general{
+    font-size: 28px;
+    font-weight: 400;
+    color: #000000;
+    padding-top: 24px;
+}
+.manager{
+    font-size: 20px;
+    font-weight: 400;
+    color: #777777;
+    padding-top: 12px;
+    margin-bottom: 110px;
+}
+.dwight{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 157px;
+}
+.schrute{
+    display: flex;
+}
+.left{
+    margin-left: 24px;
+}
+.name{
+    font-size: 28px;
+    font-weight: 400;
+    color: #000000;
+    margin-top: 14px;
+}
+.manager-two{
+    font-size: 20px;
+    color: #777777;
+    font-weight: 400;
+    margin-top: 12px;
+}
+.dwight-two{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 157px;
+    margin-top: 46px;
+    margin-bottom: 124px; 
+}
+.blog{
+    background-color: #0A2640;
+    color: #FFFFFF;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 120px;
+}
+.blue{
+    padding-top: 118px;
+    text-align: center; 
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.our-blog{
+    font-size:20px ;
+    font-weight: 400;
+    margin-bottom:12px ;
+}
+.value{
+    font-size:42px ;
+    font-weight: 400;
+margin-bottom: 62px;
+}
+hr{
+    margin-bottom: 84px;
+}
+.comited{
+    display: flex;
+    gap: 173px;
+    align-items: center;
+    padding-left: 95px;
+     margin-bottom: 80px;
+    
+}
+.are{
+    font-size: 42px;
+    font-weight: 400;
+}
+.commit{
+color: #65E4A3;
+}
+.white{
+    font-size: 16px;
+    font-weight: 400;
+}
+.white-two{
+    font-size: 16px;
+    font-weight: 400;
+    padding-right: 75px;
+}
+.white-three{
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 20px;
+}
+.comited-two{
+    margin-bottom: 80px;
+     display: flex;
+    gap: 173px;
+    align-items: center;
+    padding-left: 95px;
+}
+.comited-three{
+    margin-bottom: 80px;
+     display: flex;
+    gap: 173px;
+    align-items: center;
+    padding-left: 95px;
+}
+.enter{
+    background-color: #0A2640;
+    margin-top: 124px ;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.circle{
+}
+.template{
+    text-align: center;
+    padding: 72px 242px;
+}
+.an{
+    color: #FFFFFF;
+    font-size: 42px;
+    font-weight: 400;
+    margin-bottom: 48px;
+}
+.form{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    margin-left: 23px;
+}
+.email{
+    background-color: #FFFFFF;
+    border: 2px solid;
+    border-radius: 240px;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    padding-right: 130px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+input::placeholder{
+    color:#000000;
+}
+.start{
+    padding: 16px 38px;
+    background: #65E4A3;
+    border: 2px solid;
+    border-radius: 56px;
+    color: #0A2640;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 700;
 }
