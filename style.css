@@ -327,15 +327,7 @@ input::placeholder{
     margin-top: 84px;
     padding-top: 100px;
 }
-.end-div{
     
-}
-.logo-end{
-    color: #0A2640;
-    font-size: 43.25px;
-    font-weight: 700;
-    margin-bottom: 40px;
-}
 .last-para{
 font-size: 16px;
 font-weight: 400;
@@ -348,10 +340,69 @@ margin-bottom: 117px;
 font-size: 16px;
 font-weight: 400;
 }
+.end-div{
+    display: flex;
+    gap: 179px;
+}
 .land{
     
 }
 .company{
 display: flex;
-    gap: 96px;
+    gap: 120px;
+    list-style: none;
+    margin-bottom: 32px;
+}
+.bold{
+    color: #0A2640;
+    font-size: 43.25px;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+.ho{
+    display: flex;
+    gap:155px;
+    list-style: none;
+}
+.ho-2{
+      display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+.ho-3{
+     display: flex;
+    gap:130px;
+    list-style: none;
+}
+.thick{
+    font-size: 20px;
+    font-weight: 700;
+    color: #000000;
+}
+.thin{
+    font-size:20px ;
+    font-weight:400 ;
+    color:#777777 ;
+    
+}
+.home{
+    margin-bottom: 30px;
+}
+.hire{
+border: 1px solid #65E4A3;
+background-color: #65E4A3;
+border-radius: 120px;
+padding: 1px 14px;
+gap: 10px;
+font-size: 13px;
+font-family:700 ;
+color: #0A2640;
+text-align: center;
+margin-left: 10px;
+}
+.pro{
+    padding-right: 20px;
+}
+.carer{
+    padding-left: 62px;
 }
