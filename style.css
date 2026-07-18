@@ -323,3 +323,35 @@ input::placeholder{
     font-size: 20px;
     font-weight: 700;
 }
+.last{
+    margin-top: 84px;
+    padding-top: 100px;
+}
+.end-div{
+    
+}
+.logo-end{
+    color: #0A2640;
+    font-size: 43.25px;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+.last-para{
+font-size: 16px;
+font-weight: 400;
+margin-bottom: 64px;
+color: #777777;
+}
+.reserve{
+color: #777777;
+margin-bottom: 117px;
+font-size: 16px;
+font-weight: 400;
+}
+.land{
+    
+}
+.company{
+display: flex;
+    gap: 96px;
+}
