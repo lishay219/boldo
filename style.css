@@ -277,8 +277,11 @@ color: #65E4A3;
     margin-top: 124px ;
     margin-left: 80px;
     margin-right: 80px;
+    position: relative;
 }
 .circle{
+    position: absolute;
+    right: 1px;
 }
 .template{
     text-align: center;
@@ -289,6 +292,7 @@ color: #65E4A3;
     font-size: 42px;
     font-weight: 400;
     margin-bottom: 48px;
+    position: relative;
 }
 .form{
     display: flex;
